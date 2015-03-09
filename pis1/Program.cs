@@ -13,6 +13,8 @@ namespace pis1
             Console.WriteLine("LFC");
             Console.WriteLine("wazaaaa");
             
+            return 0;
+            
         }
     }
 }
