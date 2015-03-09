@@ -11,6 +11,7 @@ namespace pis1
         {
             Console.WriteLine("Hello Worlddd!"); 
             Console.WriteLine("LFC");
+            Console.WriteLine("wazaaaa");
             
         }
     }
