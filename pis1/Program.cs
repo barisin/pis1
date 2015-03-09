@@ -12,6 +12,8 @@ namespace pis1
             Console.WriteLine("Hello Worlddd!"); 
             Console.WriteLine("LFC");
             
+            return 0;
+            
         }
     }
 }
